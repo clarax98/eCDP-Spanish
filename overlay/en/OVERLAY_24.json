@@ -1,121 +1,68 @@
 {
-    //--- Patties ---
-    //Title
-    "23680": "Open the platen.",
-    //Comment
-    "22972": "Please press",
-    "23152": "the switch.",
-
-    //Title
-    "23780": "Open the platen.",
-    //Comment
-    "22960": "Please press",
-    "23200": "the switch.",
-
-    //Title
-    "23660": "Open the platen.",
-    //Comment
-    "22984": "Please press",
-    "23072": "the switch.",
-
-    //Title
-    "23088": "Place patties",
-    "23720": "and close platen.",
-    //Comment
-    "23700": "Arrange from",
-    "22848": "front to back.",
-
-    //Title
-    "23168": "Place patties",
-    "23840": "and close platen.",
-    //Comment
-    "23800": "Arrange from",
-    "22856": "front to back.",
-
-    //Title
-    "23136": "Place patties",
-    "23760": "and close platen.",
-    //Comment
-    "23740": "Arrange from",
-    "22864": "front to back.",
-
-    //Title
-    "23860": "Don't forget to",
-    "23232": "wipe your hands!",
-    //Comment
-    "23488": "Try to prevent",
-    "23820": "cross-contamination.",
-
-    //Title
-    "23620": "Don't forget to",
-    "23504": "wipe your hands!",
-    //Comment
-    "23552": "Try to prevent",
-    "23600": "cross-contamination.",
-
-    //Title
-    "23392": "Front to back.",
-    "22996": "Left to right.",
-    //Comment
-    "23900": "Sprinkle on the",
-    "23024": "seasoning.",
-
-    //Title
-    "23640": "Check you have",
-    "23184": "the right amount.",
-    //Comment
-    "23880": "Sprinkle on the",
-    "23104": "seasoning.",
-
-    //Title
-    "23360": "Prepare a tray",
-    "23040": "for removal",
-    //Comment
-    "23248": "Stack 4 at a",
-    "23328": "time and remove.",
-
-    //Title
-    "23520": "Prepare a tray",
-    "23120": "for removal.",
-    //Comment
-    "23280": "Stack 4 at a",
-    "23536": "time and remove.",
-
-    //Title
-    "23008": "Removal",
-    //Comment
-    "23216": "Stack 4 at a",
-    "23296": "time and remove.",
-
-    //Title
-    "23056": "Removal",
-    //Comment
-    "23408": "Stack 3 at a",
-    "23424": "time and remove.",
-
-    //Title
-    "23568": "Press the timer",
-    "22948": "and store it.",
-    //Comment
-    "23440": "The holding",
-    "23472": "time is 60m.",
-
-    //Title
-    "23344": "Press the timer",
-    "22936": "and store it.",
-    //Comment
-    "23376": "The holding",
-    "23312": "time is 15m.",
-
-    //Title
-    "23264": "Press the timer",
-    "22924": "and store it.",
-    //Comment
-    "23584": "The holding",
-    "23456": "time is 60m.",
-
-    //Control instructions
-    "23920": "Press right on the D-pad.",
-    "23952": "Drag the basket to the left.",
-    "23988": "Drag the basket to the right."
+    "23680": "Abre la platina.",
+    "22972": "Por favor presione",
+    "23152": "el interruptor.",
+    "23780": "Abre la platina.",
+    "22960": "Por favor presione",
+    "23200": "el interruptor.",
+    "23660": "Abre la platina.",
+    "22984": "Por favor presione",
+    "23072": "el interruptor.",
+    "23088": "Coloque las empanadas",
+    "23720": "y cerca de la platina.",
+    "23700": "Arreglar desde",
+    "22848": "de adelante hacia atras.",
+    "23168": "Coloque las empanadas",
+    "23840": "y cerca de la platina.",
+    "23800": "Arreglar desde",
+    "22856": "de adelante hacia atras.",
+    "23136": "Coloque las empanadas",
+    "23760": "y cerca de la platina.",
+    "23740": "Arreglar desde",
+    "22864": "de adelante hacia atras.",
+    "23860": "No olvides",
+    "23232": "Limpia las manos!",
+    "23488": "Tratar de prevenir",
+    "23820": "contaminacion cruzada.",
+    "23620": "No olvides",
+    "23504": "Limpia las manos!",
+    "23552": "Tratar de prevenir",
+    "23600": "contaminacion cruzada.",
+    "23392": "De adelante hacia atras.",
+    "22996": "De izquierda a derecha.",
+    "23900": "Espolvorear en el",
+    "23024": "condimento.",
+    "23640": "Verifique que tenga",
+    "23184": "la cantidad correcta.",
+    "23880": "Espolvorear en el",
+    "23104": "condimento.",
+    "23360": "Preparar una bandeja",
+    "23040": "Para la eliminacion",
+    "23248": "Pila 4 en un",
+    "23328": "tiempo y quitar.",
+    "23520": "Preparar una bandeja",
+    "23120": "para la eliminacion.",
+    "23280": "Pila 4 en un",
+    "23536": "tiempo y quitar.",
+    "23008": "Eliminacion",
+    "23216": "Pila 4 en un",
+    "23296": "tiempo y quitar.",
+    "23056": "Eliminacion",
+    "23408": "Pila 3 en un",
+    "23424": "tiempo y quitar.",
+    "23568": "Presione el temporizador",
+    "22948": "y guardelo.",
+    "23440": "La tenencia",
+    "23472": "El tiempo es de 60 m.",
+    "23344": "Presione el temporizador",
+    "22936": "y guardelo.",
+    "23376": "La tenencia",
+    "23312": "El tiempo es de 15 m.",
+    "23264": "Presione el temporizador",
+    "22924": "y guardelo.",
+    "23584": "La tenencia",
+    "23456": "El tiempo es de 60 m.",
+    "23920": "Presione a la derecha en el D-Pad.",
+    "23952": "Arrastre la canasta hacia la izquierda.",
+    "23988": "Arrastre la canasta hacia la derecha."
 }

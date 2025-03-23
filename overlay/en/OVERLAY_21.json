@@ -1,54 +1,30 @@
 {
-    //--- Eggs ---
-    //Title
-    "21896": "Spray on",
-    "21536": "the oil.",
-    //Comment
-    "21804": "Spray 2-3 shots",
-    "21772": "of the oil.",
-
-    //Title
-    "21552": "Break the eggs.",
-    //Comment
-    "21692": "Don't get empty",
-    "21956": "shell pieces in it.",
-
-    //Title
-    "21836": "Don't forget to",
-    "21660": "wipe your hands!",
-    //Comment
-    "21612": "Wipe your hands!",
-
-    //Title
-    "21588": "Twist the yolk.",
-    //Comment
-    "21544": "Twist yolk with",
-    "21708": "the yellow spatula.",
-
-    //Title
-    "21724": "Add hot water",
-    "21740": "& press switch.",
-    //Comment
-    "21576": "Are you using",
-    "21856": "lukewarm water?",
-
-    //Title
-    "21876": "Prepare the tray.",
-    //Comment
-    "21756": "Prepare the",
-    "21600": "UHC tray.",
-
-    //Title
-    "21644": "Remove the",
-    "21628": "top ring.",
-    //Comment
-    "21936": "Is the yolk cooked",
-    "21820": "and not all runny?",
-    
-    //Title
-    "21788": "Press the timer",
-    "21564": "and store it.",
-    //Comment
-    "21676": "Put in the UHC",
-    "21916": "and push the timer."
+    "21896": "Rociar",
+    "21536": "el aceite.",
+    "21804": "Rociar 2-3 disparos",
+    "21772": "del aceite.",
+    "21552": "Romper los huevos.",
+    "21692": "No te quedes vacio",
+    "21956": "Piezas de concha en el.",
+    "21836": "No olvides",
+    "21660": "Limpia las manos!",
+    "21612": "Limpia las manos!",
+    "21588": "Gira la yema.",
+    "21544": "Yema de giro con",
+    "21708": "La espatula amarilla.",
+    "21724": "Agregar agua caliente",
+    "21740": "& Presione Switch.",
+    "21576": "Estas usando",
+    "21856": "Agua tibia?",
+    "21876": "Prepara la bandeja.",
+    "21756": "Preparar el",
+    "21600": "Bandeja UHC.",
+    "21644": "Eliminar el",
+    "21628": "anillo superior.",
+    "21936": "Esta cocinada la yema?",
+    "21820": "Y no todos liquidos?",
+    "21788": "Presione el temporizador",
+    "21564": "y guardelo.",
+    "21676": "Poner en el UHC",
+    "21916": "y empuja el temporizador."
 }

@@ -1,35 +1,20 @@
 {
-    //--- Canadian Bacon ---
-    //Title
-    "12328": "Prepare the tray.",
-    //Comment
-    "12244": "Prepare the",
-    "12184": "UHC tray.",
-
-    //Title
-    "12144": "Line them up.",
-    //Comment
-    "12348": "Line them up",
-    "12276": "on the hot plate.",
-
-    //Title
-    "12228": "Turn them",
-    "12136": "after 4s.",
-    //Comment
-    "12160": "After 4s,",
-    "12196": "turn them over.",
-
-    //Title
-    "12368": "After 4s,",
-    "12128": "remove them.",
-    //Comment
-    "12308": "Remove them in the",
-    "12388": "order they're arranged.",
-    
-    //Title
-    "12292": "Press the timer",
-    "12172": "and store them.",
-    //Comment
-    "12212": "The holding",
-    "12260": "time is 30m."
+    "12328": "Prepara la bandeja.",
+    "12244": "Preparar el",
+    "12184": "Bandeja UHC.",
+    "12144": "Alinearlos.",
+    "12348": "Alinearlos",
+    "12276": "en el plato caliente.",
+    "12228": "Girarlos",
+    "12136": "despues de 4s.",
+    "12160": "Despues de 4s,",
+    "12196": "Dejelos.",
+    "12368": "Despues de 4s,",
+    "12128": "retirarlos.",
+    "12308": "Retirelos en el",
+    "12388": "Orden estan dispuestos.",
+    "12292": "Presione el temporizador",
+    "12172": "y guardelos.",
+    "12212": "La tenencia",
+    "12260": "El tiempo es de 30 m."
 }

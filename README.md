@@ -1,23 +1,27 @@
-# eCrew Development Program (eCDP) SPANISH Translation
-This is a repository to create a fan Spansih translation patch of McDonald's [eCrew Development Program](https://en.wikipedia.org/wiki/ECrew_Development_Program).
+# Programa de Desarrollo eCrew (eCDP) - Traducción al ESPAÑOL
 
-## Repository Structure
-The repository consists of 4 sections, one directory for each section:
-- `arm9` - Translates ARM9 sections.
-- `overlay` - Translates overlay files, which contain UI texts, as well as the game's compiled code.
-- `bin` - Translates bin files, containing texts mainly for SOC Guides and Self Check.
-- `cmcd` - Translates the "Challenge the McDonald's" section. Also replaces the font used there.
+Este es un repositorio para crear un parche de traducción al español (realizado por fans) del [Programa de Desarrollo eCrew](https://en.wikipedia.org/wiki/ECrew_Development_Program) de McDonald's.
 
-## Patching your ROM
-This guide is for patching all translations to your ROM. For patching individual sections, please check instructions inside corresponding directories.
-1. Install Python 3.9 on your computer, and install `ndspy` package:
-```
-pip install ndspy
-```
-2. Place an original, unmodified ROM of McDonald's eCDP in this directory. (File SHA-1: `136aacc9d3d7c8567381cd4e735ff3c004a018d0`)
-4. Run `patch_all.py` in Python 3.9 (Not tested with other versions) with the ROM file specified:
-```
-python patch_all.py <ROM Filename>.nds
-```
-4. The script will patch strings of all sections, and it will create a file named `\<ROM Filename\>-patched.nds`.
-5. Patching done! You can now play the game in a Nintendo DS emulator of your choice.
+## Estructura del Repositorio
+
+El repositorio consta de 4 secciones, una carpeta por cada sección:
+- `arm9` - Traduce las secciones ARM9.
+- `overlay` - Traduce los archivos overlay, que contienen textos de la interfaz de usuario, así como el código compilado del juego.
+- `bin` - Traduce archivos bin, que contienen principalmente textos para las guías SOC y el Auto-chequeo.
+- `cmcd` - Traduce la sección "Desafía a McDonald's". También reemplaza la fuente utilizada en esa sección.
+
+## Parchear tu ROM
+
+Esta guía es para aplicar todos los parches de traducción a tu ROM. Para aplicar parches a secciones individuales, consulta las instrucciones dentro de cada carpeta correspondiente.
+
+1. Instala Python 3.9 en tu ordenador e instala el paquete `ndspy`:
+   ```bash
+   pip install ndspy
+   ```
+2. Coloca una ROM original y sin modificar del eCDP de McDonald's en este directorio. (SHA-1 del archivo: `136aacc9d3d7c8567381cd4e735ff3c004a018d0`)
+3. Ejecuta `patch_all.py` con Python 3.9 (no se ha probado con otras versiones), especificando el archivo de la ROM:
+   ```bash
+   python patch_all.py <NombreDelArchivo>.nds
+   ```
+4. El script aplicará los parches de texto en todas las secciones y creará un archivo llamado `\<NombreDelArchivo\>-patched.nds`.
+5. ¡Parcheado completo! Ahora puedes jugar al juego en el emulador de Nintendo DS que prefieras.

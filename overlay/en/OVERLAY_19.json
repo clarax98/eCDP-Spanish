@@ -1,104 +1,60 @@
 {
-    //--- Fries ---
-    //Title
-    "30476": "Basketing",
-    "30000": "Potatoes",
-    //Comment
-    "30556": "Put potatoes into",
-    "30576": "baskets in two pours.",
-
-    //Title
-    "30376": "Basketing",
-    "29992": "Potatoes",
-    //Comment
-    "30032": "Press button on",
-    "30092": "the dispenser.",
-
-    //Title
-    "30156": "Hang up",
-    "30024": "the baskets",
-    //Comment
-    "30436": "Place baskets in",
-    "30744": "the correct order.",
-
-    //Title
-    "30236": "Hang up",
-    "30008": "the baskets",
-    //Comment
-    "30396": "Place baskets in",
-    "30720": "the correct order.",
-
-    //Title
-    "30172": "Put in the vat &",
-    "30300": "press the button",
-    //Comment
-    "30656": "Don't put two baskets",
-    "30792": "in the same vat.",
-
-    //Title
-    "30252": "Put in the vat &",
-    "30284": "press the button",
-    //Comment
-    "30616": "Don't put two baskets",
-    "30768": "in the same vat.",
-
-    //Title
-    "30516": "Shake basket",
-    "30220": "after the beep",
-    //Comment
-    "30676": "Make sure potatoes",
-    "30204": "aren't stuck together.",
-
-    //Title
-    "30536": "Remove after",
-    "30124": "the second beep",
-    //Comment
-    "30840": "Make sure fries are",
-    "30864": "crispy and not oily.",
-
-    //Title
-    "30056": "Turn the oil off",
-    //Comment
-    "30696": "Let oil drop from",
-    "30356": "potatoes for 5-10s.",
-
-    //Title
-    "30044": "Turn the oil off",
-    //Comment
-    "30496": "Let oil drop from",
-    "30188": "potatoes for 5-10s.",
-
-    //Title
-    "30268": "Turn on the timer",
-    //Comment
-    "30080": "Press the button on",
-    "30108": "the timer.",
-
-    //Title
-    "30456": "Move the fries to",
-    "29984": "the bagging tray",
-    //Comment
-    "30596": "Spread the freshly",
-    "30636": "fried potatoes.",
-
-    //Title
-    "30336": "Sprinkle the salt",
-    //Comment
-    "30816": "Do not let the salt",
-    "30316": "get into the vat.",
-
-    //Title
-    "30140": "Put the fries in",
-    "30016": "to fill the bag.",
-    //Comment
-    "30416": "Serve within 7 minutes.",
+    "30476": "Cesta",
+    "30000": "Papas",
+    "30556": "Poner las papas en",
+    "30576": "Cestas en dos vertidos.",
+    "30376": "Cesta",
+    "29992": "Papas",
+    "30032": "Presione el boton en",
+    "30092": "el dispensador.",
+    "30156": "Colgar",
+    "30024": "las canastas",
+    "30436": "Colocar cestas en",
+    "30744": "el orden correcto.",
+    "30236": "Colgar",
+    "30008": "las canastas",
+    "30396": "Colocar cestas en",
+    "30720": "el orden correcto.",
+    "30172": "Poner en el IVA y",
+    "30300": "Presione el boton",
+    "30656": "No pongas dos canastas",
+    "30792": "en el mismo IVA.",
+    "30252": "Poner en el IVA y",
+    "30284": "Presione el boton",
+    "30616": "No pongas dos canastas",
+    "30768": "en el mismo IVA.",
+    "30516": "Canasta de batir",
+    "30220": "Despues del pitido",
+    "30676": "Asegurese de las papas",
+    "30204": "no estan unidos juntos.",
+    "30536": "Quitar",
+    "30124": "el segundo pitido",
+    "30840": "Asegurese de que las papas fritas sean",
+    "30864": "Crujiente y no aceitoso.",
+    "30056": "Apagar el aceite",
+    "30696": "Deja que caiga aceite",
+    "30356": "Patatas para 5-10.",
+    "30044": "Apagar el aceite",
+    "30496": "Deja que caiga aceite",
+    "30188": "Patatas para 5-10.",
+    "30268": "Enciende el temporizador",
+    "30080": "Presione el boton en",
+    "30108": "el temporizador.",
+    "30456": "Mover las papas fritas a",
+    "29984": "la bandeja de embolsado",
+    "30596": "Extender el recien",
+    "30636": "patatas fritas.",
+    "30336": "Espolvorear la sal",
+    "30816": "No dejes que la sal",
+    "30316": "Entra en el IVA.",
+    "30140": "Poner las papas fritas",
+    "30016": "para llenar la bolsa.",
+    "30416": "Servir en 7 minutos.",
     "30068": "",
-
-    //Control instructions
-    "30912": "Press [早送り] (Fast Forward).",
-    "30940": "Press left on the D-pad.",
-    "30972": "Press right on the D-pad.",
-    "31004": "Please slide basket to right.",
-    "31040": "Please slide basket to left",
-    "31116": "Touch and hold basket for 5-10s."
+    "30912": "Presione rapidamente hacia adelante.",
+    "30940": "Presione a la izquierda en el D-Pad.",
+    "30972": "Presione a la derecha en el D-Pad.",
+    "31004": "Por favor, deslice la canasta a la derecha.",
+    "31040": "Por favor, deslice la canasta a la izquierda",
+    "31116": "Toque y mantenga la canasta para 5-10."
 }

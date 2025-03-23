@@ -1,50 +1,29 @@
 {
-    //--- Muffins ---
-    //Title
-    "19720": "Split in half",
-    "19464": "with your thumb.",
-    //Comment
-    "19816": "Be sure not to",
-    "19836": "twist it!",
-
-    //Title
-    "19560": "Line them up",
-    "19736": "with the spatula.",
-    //Comment
-    "19608": "Crown in front.",
-    "19504": "Heel in back.",
-
-    //Title
-    "19528": "Put them in",
-    "19472": "the toaster.",
-    //Comment
-    "19576": "Please put them",
-    "19688": "in the toaster.",
-
-    //Title
-    "19776": "Prepare the tray.",
-    //Comment
-    "19516": "Prepare the",
-    "19492": "UHC tray.",
-
-    //Title
-    "19796": "Spray them",
-    "19544": "after removing.",
-    //Comment
-    "19856": "Spray them 3 times.",
-    "19704": "Spray them evenly.",
-
-    //Title
-    "19756": "Put the crown",
-    "19624": "on top of heel.",
-    //Comment
-    "19876": "Put them so the",
-    "19592": "toasted side faces up.",
-    
-    //Title
-    "19672": "Press the timer",
-    "19480": "and store them.",
-    //Comment
-    "19640": "The holding",
-    "19656": "time is 20m."
+    "19720": "Dividir por la mitad",
+    "19464": "con tu pulgar.",
+    "19816": "Asegurate de no",
+    "19836": "Gira!",
+    "19560": "Alinearlos",
+    "19736": "con la espatula.",
+    "19608": "Corona al frente.",
+    "19504": "Talon en la espalda.",
+    "19528": "Ponerlos en",
+    "19472": "la tostadora.",
+    "19576": "Por favor, pongalos",
+    "19688": "en la tostadora.",
+    "19776": "Prepara la bandeja.",
+    "19516": "Preparar el",
+    "19492": "Bandeja UHC.",
+    "19796": "Rociarlos",
+    "19544": "despues de quitar.",
+    "19856": "Rociarlos 3 veces.",
+    "19704": "Rociarlos uniformemente.",
+    "19756": "Poner la corona",
+    "19624": "sobre el talon.",
+    "19876": "Pongalos para que el",
+    "19592": "El lado tostado se enfrenta.",
+    "19672": "Presione el temporizador",
+    "19480": "y guardelos.",
+    "19640": "La tenencia",
+    "19656": "El tiempo es de 20 m."
 }

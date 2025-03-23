@@ -1,44 +1,27 @@
 {
-    //--- Fish Portion ---
-    //Title
-    "17948": "Put in basket.",
-    "17932": "Put on guard.",
-    //Comment
-    "17836": "Don't put on",
-    "17868": "top of vat.",
-
-    //Title
-    "17788": "Put in vat.",
-    "17820": "Press switch.",
-    //Comment
-    "17968": "Don't splash",
-    "17804": "the oil!",
-
-    //Title
-    "17988": "When timer beeps,",
-    "17756": "remove them.",
-    //Comment
-    "17740": "Turn off oil",
-    "18028": "for 5-10s.",
-
-    //Title
-    "17772": "Transfer to tray.",
-    //Comment
-    "17852": "Use tongs to",
-    "18008": "line up on tray.",
-
-    //Title
-    "17916": "Press timer and",
-    "17728": "store it.",
-    //Comment
-    "17884": "The holding",
-    "17900": "time is 30m.",
-
-    //Control instructions
-    "18144": "Press [早送り] (Fast Forward).",
-    "18172": "Press left on the D-pad.",
-    "18204": "Press right on the D-pad.",
-    "18236": "Slide the basket to the right.",
-    "18272": "Slide the basket to the left.",
-    "18348": "Touch and hold basket for 5-10s."
+    "17948": "Poner canasta.",
+    "17932": "Poner en guardia.",
+    "17836": "No te pongas",
+    "17868": "Top del thin.",
+    "17788": "Poner en thin.",
+    "17820": "Presione el interruptor.",
+    "17968": "No salpique",
+    "17804": "El aceite!",
+    "17988": "Cuando el temporizador emite,",
+    "17756": "retirarlos.",
+    "17740": "Apagar el aceite",
+    "18028": "para 5-10.",
+    "17772": "Transferir a la bandeja.",
+    "17852": "Usar pinzas para",
+    "18008": "Alinearse en la bandeja.",
+    "17916": "Presione el temporizador y",
+    "17728": "almacenarlo.",
+    "17884": "La tenencia",
+    "17900": "El tiempo es de 30 m.",
+    "18144": "Presione rapidamente hacia adelante.",
+    "18172": "Presione a la izquierda en el D-Pad.",
+    "18204": "Presione a la derecha en el D-Pad.",
+    "18236": "Deslice la canasta hacia la derecha.",
+    "18272": "Deslice la canasta hacia la izquierda.",
+    "18348": "Toque y mantenga la canasta para 5-10."
 }

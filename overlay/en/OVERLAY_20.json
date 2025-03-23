@@ -1,56 +1,33 @@
 {
-    //--- Hashbrowns ---
-    //Title
-    "19760": "Put in basket,",
-    "19552": "Put on guard.",
-    //Comment
-    "19504": "Put one in",
-    "19740": "the basket.",
-
-    //Title
-    "19536": "Put in vat.",
-    "19616": "Push the switch.",
-    //Comment
-    "19472": "Put basket",
-    "19700": "in the oil.",
-
-    //Title
-    "19720": "When it beeps,",
-    "19456": "remove from oil.",
-    //Comment
-    "19780": "When timer rings,",
-    "19568": "take it out.",
-
-    //Title
-    "19432": "Stop the oil.",
-    //Comment
-    "19520": "Stop the oil",
-    "19820": "for 5-10s, please.",
-
-    //Title
-    "19664": "Press the timer.",
-    "19488": "Transfer to tray.",
-    //Comment
-    "19648": "Please press",
-    "19584": "the HT-timer.",
-
-    //Title
-    "19600": "Put in bag.",
-    //Comment
-    "19680": "Package the",
-    "19632": "Hashbrowns.",
-
-    //Title
-    "19424": "Line them up.",
-    //Comment
-    "19800": "Let's serve",
-    "19444": "within 10m.",
-
-    //Control instructions
-    "19864": "Press 「早送り」 (Fast Forward)",
-    "19892": "Press left on the D-pad.",
-    "19924": "Press right on the D-pad.",
-    "19956": "Slide basket to the right.",
-    "19992": "Slide basket to the right.",
-    "20068": "Touch and hold basket for 5-10s."
+    "19760": "Poner canasta,",
+    "19552": "Poner en guardia.",
+    "19504": "Poner uno en",
+    "19740": "la canasta.",
+    "19536": "Poner en thin.",
+    "19616": "Empuje el interruptor.",
+    "19472": "Poner canasta",
+    "19700": "en el aceite.",
+    "19720": "Cuando pitea,",
+    "19456": "Retirar del aceite.",
+    "19780": "Cuando suena el temporizador,",
+    "19568": "Sacalo.",
+    "19432": "Detente el aceite.",
+    "19520": "Detener el aceite",
+    "19820": "Para 5-10, por favor.",
+    "19664": "Presione el temporizador.",
+    "19488": "Transferir a la bandeja.",
+    "19648": "Por favor presione",
+    "19584": "el ht-temporer.",
+    "19600": "Poner en la bolsa.",
+    "19680": "Empaquetar el",
+    "19632": "Huhbrowns.",
+    "19424": "Alinearlos.",
+    "19800": "Sirvamos",
+    "19444": "Dentro de 10 m.",
+    "19864": "Presione rapido hacia adelante",
+    "19892": "Presione a la izquierda en el D-Pad.",
+    "19924": "Presione a la derecha en el D-Pad.",
+    "19956": "Deslice la cesta a la derecha.",
+    "19992": "Deslice la cesta a la derecha.",
+    "20068": "Toque y mantenga la canasta para 5-10."
 }
