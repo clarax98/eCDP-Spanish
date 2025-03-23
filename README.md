@@ -1,5 +1,5 @@
 # eCrew Development Program (eCDP) SPANISH Translation
-This is a repository to create a fan English translation patch of McDonald's [eCrew Development Program](https://en.wikipedia.org/wiki/ECrew_Development_Program).
+This is a repository to create a fan Spansih translation patch of McDonald's [eCrew Development Program](https://en.wikipedia.org/wiki/ECrew_Development_Program).
 
 ## Repository Structure
 The repository consists of 4 sections, one directory for each section:
