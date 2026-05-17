@@ -1,7 +1,7 @@
 [
-    "Dentro de 10-15s\nDesde que el cliente llega a la ventanilla\nde pago hasta que realizas el cobro,\nno debe tardar mas de 10-15s.",
-    "Cajero\n1. Indica al cliente el precio total del pedido.",
-    "Cajero\n2. Repite la cantidad de dinero\nque te ha entregado.",
-    "Cajero\n3. Indica al cliente cuanto cambio\nle vas a devolver.",
-    "Cajero\n4. Di \"gracias\" al cliente despues\nde completar la transaccion."
+  "Dentro de 10-15s\nDesde que el cliente llega a la ventanilla\nde pago hasta que realizas el cobro,\nno debe tardar mas de 10-15s.",
+  "Cajero\n1. Indica al cliente el precio total del pedido.",
+  "Cajero\n2. Repite la cantidad de dinero\nque te ha entregado.",
+  "Cajero\n3. Indica al cliente cuanto cambio\nle vas a devolver.",
+  "Cajero\n4. Di \"gracias\" al cliente despues\nde completar la transaccion."
 ]

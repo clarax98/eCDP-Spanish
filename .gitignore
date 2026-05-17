@@ -1,4 +1,15 @@
-.vscode/
-*/__pycache__
-*.bat
+# ROMs — never commit game files
 *.nds
+
+# Python virtual environment
+trans/
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+
+# Editor
+.vscode/
+
+# Scripts Windows (no necesarios en el repo)
+*.bat

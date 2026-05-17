@@ -1,7 +1,7 @@
 [
-    " 1/10 Las empanadas se eliminan como\nTan pronto como el ciclo de coccion sea\nfinalizado. Resultados de coccion excesiva\nen las empanadas secandose y\nSabor perdedor.",
-    " Use la espatula de carne y el\nespatula de hutzler gris para 1/10\nempanadas. Eliminar uno a la vez\ny apila cuatro encima de uno\notro.",
-    " No corte el jugo de carne.\n Use una toallita humeda para deshacerse de\njugo de carne en la espatula\nantes de usarlo de nuevo.",
-    " Asegurese de eliminar 1/10\nPatties dentro del tiempo programado\npor su eliminacion. La eliminacion\nEl tiempo comienza cuando la platina\nabre y termina cuando el ultimo\nPatty se mueve a la bandeja UHC.",
-    " El tiempo maximo de eliminacion es\n18s.\n El numero maximo de empanadas\nque puede ir en la bandeja de UHC\nes 16 (4 columnas, 4 filas)."
+  " 1/10 Las empanadas se eliminan como\nTan pronto como el ciclo de coccion sea\nfinalizado. Resultados de coccion excesiva\nen las empanadas secandose y\nSabor perdedor.",
+  " Use la espatula de carne y el\nespatula de hutzler gris para 1/10\nempanadas. Eliminar uno a la vez\ny apila cuatro encima de uno\notro.",
+  " No corte el jugo de carne.\n Use una toallita humeda para deshacerse de\njugo de carne en la espatula\nantes de usarlo de nuevo.",
+  " Asegurese de eliminar 1/10\nPatties dentro del tiempo programado\npor su eliminacion. La eliminacion\nEl tiempo comienza cuando la platina\nabre y termina cuando el ultimo\nPatty se mueve a la bandeja UHC.",
+  " El tiempo maximo de eliminacion es\n18s.\n El numero maximo de empanadas\nque puede ir en la bandeja de UHC\nes 16 (4 columnas, 4 filas)."
 ]
